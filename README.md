@@ -1,4 +1,4 @@
-# SWAPI tech challenge by Revel Systems
+# SWAPI tech challenge for Revel Systems
 The challenge had a clear discription, however, not very specific, therefore a few decisions had to be made based on assumptions. 
 
 Works with Python > 3.8
