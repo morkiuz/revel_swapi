@@ -19,7 +19,7 @@ The app will print a list of movie characters, print the *json response* from th
 you to input your desired character.
 
 After the name of a character is given, the app makes another request to the server with the character's ID. 
-The response is printed to the shell and json response is saved as a file. 
+The movie names in the response are printed to the shell and json response is saved as a file. 
 
 ## JSON response
 The challenge does not provide a schema for the JSON file, so the app simply dumps JSON response from the API.
