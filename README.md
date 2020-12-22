@@ -23,7 +23,7 @@ The movie names in the response are printed to the shell and json response is sa
 
 ## JSON response
 The challenge does not provide a schema for the JSON file, so the app simply dumps JSON response from the API.
-The file is printed in the current path of the app. 
+The file is saved in the current path of the app. 
 
 ## Testing
 Please run the test by navigating one directory up from the lib.
