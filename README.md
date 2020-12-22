@@ -1,5 +1,5 @@
 # SWAPI tech challenge for Revel Systems
-The challenge had a clear discription, however, not very specific, therefore a few decisions had to be made based on assumptions. 
+The challenge had a clear discription, however, not very detailed, therefore a few decisions had to be made based on assumptions. 
 
 Works with Python > 3.8
 
